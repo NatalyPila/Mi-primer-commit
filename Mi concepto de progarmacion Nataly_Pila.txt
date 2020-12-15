@@ -5,3 +5,8 @@ Queremos crear un usuario a una persona pero en programación tenemos la facilid
 Los objetos se crean a partir de clases.
 Los objetos son las plantillas.
 Los objetos se crean a partir esas plantillas.
+Como paradigma la Programación Orientada a Objetos se basa en 4 pilares son:
+Abstracción.-  pensar que atributos y que métodos va a tener 
+Encapsulamiento.- proteger la información y organizar la programación tanto personal como para el público general.
+Polimorfismo.- dar órdenes coherentes a usuarios y objetos, cada una de ellas respondan a su propia manera.
+Herencia.-  se denomina subclase contiene los atributos y métodos de la clase primaria.
