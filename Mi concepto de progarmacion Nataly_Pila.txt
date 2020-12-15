@@ -1,2 +1,7 @@
 La Programación Orientada a Objetos
 La programación es amplia pero tenemos el paradigma de programación, tenemos estilos de programar, entre los estilos más utilizados y más fácil es el secuencial o estructurado, los objetos tienen datos y funcionalidad también se comunican entre ellos, los datos en programación orientada a objetos se llama atributos y la funcionalidad se llama métodos.
+Ejemplo
+Queremos crear un usuario a una persona pero en programación tenemos la facilidad del instanciar es crear un objeto a partir de una  clase, de esta manera es como con una clase podemos crear decenas y miles sin tener que escribir código nuevamente solo escribimos una sola vez la plantilla.
+Los objetos se crean a partir de clases.
+Los objetos son las plantillas.
+Los objetos se crean a partir esas plantillas.
