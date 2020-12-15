@@ -1,0 +1,2 @@
+La Programación Orientada a Objetos
+La programación es amplia pero tenemos el paradigma de programación, tenemos estilos de programar, entre los estilos más utilizados y más fácil es el secuencial o estructurado, los objetos tienen datos y funcionalidad también se comunican entre ellos, los datos en programación orientada a objetos se llama atributos y la funcionalidad se llama métodos.
